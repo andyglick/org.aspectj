@@ -1,2 +1,7 @@
 */bin
 aj-build/
+
+.idea/
+*.iml
+*.ipr
+*.iws
